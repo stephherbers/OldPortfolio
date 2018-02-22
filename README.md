@@ -1,4 +1,4 @@
-Welcome to my graphic design portfolio!
+Welcome to my Graphic Design portfolio!
 
 The images within this repositiory are some of the work I have done as a Graphic 
 Designer for the Music Department at Carleton College.
