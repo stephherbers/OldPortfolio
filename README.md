@@ -1,13 +1,6 @@
-Welcome to my graphic design portfolio!
+Welcome to my Computer Science portfolio!
 
-The images within this repositiory are some of the work I have done as a Graphic 
-Designer for the Music Department at Carleton College.
-
-For each event, the director can request that a poster be made.
-My job is to take their vision for the show and turn tha into a prompotional poster 
-that is put up around school, and the website. 
-
-All posters have been made with Photoshop, or a combination of Photoshop and Illistrator.
+A blog of some results of research I conducted at GroupLens at University of Minnestoa can be found here: https://grouplens.org/blog/ramen-is-more-photogenic-than-chicken-wings-a-winter-break-externship-report/ 
 
 Please email any questions you have at herberss@carleton.edu
 
