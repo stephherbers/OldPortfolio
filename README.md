@@ -1,6 +1,6 @@
 Hello! Welcome to my portfolio!
 
-This repositiory contains both Graphic Design work, and also computer science work, each on seperate branches.
+This repositiory contains both Graphic Design and computer science work, each on seperate branches.
 
 To navigate, you can use the dropdown labelled "branches," or if you are more familiar with git you can also navigate though terminal.
 
