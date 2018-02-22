@@ -1,13 +1,14 @@
 Hello! Welcome to my portfolio!
 
-The images within this repositiory are some of the work I have done as a Graphic 
+This repositiory contains both Graphic Design work, and also computer science work, each on seperate branches.
+
+To navigate, you can use the dropdown labelled "branches," or if you are more familiar with git you can also navigate though terminal.
+
+In the 'Graphic-Design-Work' branch, there are images of some of the work I have done as a Graphic 
 Designer for the Music Department at Carleton College.
 
-For each event, the director can request that a poster be made.
-My job is to take their vision for the show and turn tha into a prompotional poster 
-that is put up around school, and the website. 
+In the 'CS-Work' branch, there is projects from various computer science classes, or research conducted outside of school. These are mainly done in Python and Java, but also incluse HTML and CSS. Descriptions of each project are contained with the code.
 
-All posters have been made with Photoshop, or a combination of Photoshop and Illistrator.
 
 Please email any questions you have at herberss@carleton.edu
 
